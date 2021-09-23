@@ -1,4 +1,4 @@
-# banana-talk
+# ahoy-pirate
 
-mg-banana-talk.netlify.app
+ahot-pirate.netlify.app
 ![Output](/output/output.png)
